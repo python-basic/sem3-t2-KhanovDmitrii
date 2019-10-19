@@ -110,4 +110,3 @@ res = (val**2)-1%10
 print(res)
 
 
-[repl](https://repl.it/@DmitriiKhanov/MedicalPinkAdministration)
